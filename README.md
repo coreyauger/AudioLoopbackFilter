@@ -28,3 +28,7 @@ There are a few major differences in my filter from the one I was using [before]
 
 ## Finally 
 My solution has only undergone a very small amount of testing.  Which did include both a Windows 7 and Windows 8 machine.  However, if you have any trouble with the filter please contact me and I will be glad to help.  Thanks.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/coreyauger/audioloopbackfilter/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
